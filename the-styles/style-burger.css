@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(4, 30, 92);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#description,
+.list,
+.recepie {
+    background-color: rgb(24, 50, 102);
+    height: auto;
+    width: 800px;
+}
+.list.title,
+.recepie.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+#titl {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

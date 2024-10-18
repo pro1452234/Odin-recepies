@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(37, 70, 97);
+    color: white;
+}
+#heading {
+    font: bold;
+    text-align: center;
+    background-color: none;
+}
+

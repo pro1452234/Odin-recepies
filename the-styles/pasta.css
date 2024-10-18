@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(125, 137, 145);
+}
+#list {
+    background-color: rgb(115, 127, 135);
+    font-family: sans-serif;
+}
+#recepie {
+    background-color: rgb(115, 127, 135);
+    font-family: sans-serif;
+}
+#heading-list {
+    font-family: 'Courier New', Courier, monospace;
+}
+#heading-recepie {
+    font-family: 'Courier New', Courier, monospace;
+}
